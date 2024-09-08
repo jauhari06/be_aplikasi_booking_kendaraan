@@ -6,11 +6,11 @@
 - **Framework:** CodeIgniter 4.54
 
 ## cara instalasi
-1. **Clone the repository**: salin dari github ke local.
-2.  **Set up your database**: membuat database dan mengimpor struktur tabel yang sesuai. buka php my admin lalu buat database bernama pemesanan_kendaraan.
-3.  **Configure the environment**: Pastikan `.env` file diatur dengan benar untuk menyambungkan aplikasi ke database.
+1. **Clone repository**: salin dari github ke local.
+2.  **Siapkan Database**: membuat database dan mengimpor struktur tabel yang sesuai. buka php my admin lalu buat database bernama pemesanan_kendaraan.
+3.  **Sesuaikan environment**: Pastikan `.env` file diatur dengan benar untuk menyambungkan aplikasi ke database.
 4.  **Install dependencies**: Gunakan `composer` untuk menginstal semua dependensi yang dibutuhkan oleh proyek.
-5.  **Run the project**: Jalankan aplikasi di browser.
+5.  **jalankan project**: Jalankan aplikasi di browser , jalankan `php spark serve` di terminal.
 
 
 ## informasi users
